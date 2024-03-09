@@ -1,0 +1,84 @@
+#hero {
+    background-color: #9fb69e;
+    
+}
+
+h1 {
+    color: #366561;
+}
+
+h2 {
+    font-weight: bold;
+    color: #366561;
+
+}
+
+.container {
+    color: white;
+}
+
+#Profile { 
+    border-radius: 30px;
+}
+
+.feature-icon {
+    height: 2em;
+    width: 2em;
+    border-radius: .5em;
+    background-color: #f4bfba;
+
+}
+
+.features {
+    background-color: #f4bfba;
+}
+
+.nav-item a:hover {
+    background-color: #f4bfba;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #f4bfba;
+}
+
+.resume{
+    margin-bottom: 5;
+    margin-top: 0;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 18px;
+    color: #366561;
+}
+
+h5 {
+
+    text-transform: uppercase;
+    font-size: 12px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+h6 {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: lighter;
+
+}
+
+ul {
+    margin: 0;
+}
+
+.footer {
+    color: #366561;
+}
